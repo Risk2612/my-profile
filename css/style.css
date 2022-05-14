@@ -383,8 +383,8 @@ section .container {
 }
 
 .home .intro img {
-  height: 315px;
-  width: 270px;
+  height: 350px;
+  width: 275px;
   /* border-radius: 50%; */
   display: inline-block;
   border: 8px solid #ffffff;
